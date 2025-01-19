@@ -60,5 +60,8 @@
 <로컬 서버>의 설치법을 따른 후 월드를 릴름에 업로드한다.
 
 ### Bedrock Dedicated Server
+1. 월드를 클라이언트에서 <로컬 서버>의 설치법을 따른다.
+2. `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds`에 있는 월드 파일을 복사해서 서버의 `Worlds`폴더에 넣는다.
+
 
 Tested on 1.21.51 with @minecraft/server:1.17.0-beta
