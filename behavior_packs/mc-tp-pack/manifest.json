@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Custom TP Pack",
+    "description": "[2.0.0]",
+    "uuid": "15f9d11c-7567-4b0f-a6c8-5585cff313c3",
+    "version": [
+      2,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Main Module",
+      "language": "javascript",
+      "type": "script",
+      "uuid": "25e85d26-21d7-4356-bbf0-8cdcdffff004",
+      "version": [
+        1,
+        0,
+        3
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.17.0-beta"
+    }
+  ]
+}
