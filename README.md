@@ -77,6 +77,7 @@ Bedrock Dedicated Server은 Beta API 설정 기능이 없어 베드락 클라이
 
 2. Windows 10 Edition의 경우 `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds`에 있는 월드 파일을 복사해서 서버의 `Worlds`폴더에 넣는다.
 
+3. 붙여넣은 월드 폴더 이름을 원하는 것으로 지은 후 `server.properties` 파일의 `level-name` 항목을 그 이름으로 편집한다. (혹은 그냥 폴더명을 `Bedrock level`라고 한다.)
 <hr/>
 For Minecraft Bedrock
 
