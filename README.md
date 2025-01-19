@@ -70,9 +70,9 @@
 <로컬 서버>의 설치법을 따른 후 월드를 릴름에 업로드한다.
 
 ### Bedrock Dedicated Server
-Bedrock Dedicated Server은 Beta API 설정 기능이 없어 Windows 10 Edition과 같은 베드락 클라이언트에서 월드를 편집한 후 추가해야 함. 
+Bedrock Dedicated Server은 Beta API 설정 기능이 없어 베드락 클라이언트 싱글플레이어에서 월드를 편집한 후 추가해야 함. 
 
-1. 월드를 윈도우 Minecraft Windows 10 Edition 등 일반 베드락 클라이언트에서 생성 또는 연 후 <로컬 서버>의 설치법을 따라 설정을 한다. (기존 월드를 편집할 경우 아래 경로에 월드를 복붙한 후 설정한다.
+1. 윈도우 Minecraft Windows 10 Edition 등 일반 베드락 클라이언트 싱글플레이어를 켠 후 <로컬 서버>의 설치법을 따라 설정을 한다. (기존 월드를 편집할 경우 아래 서술된 경로에 월드를 복붙한 후 설정한다.
 )
 
 2. Windows 10 Edition의 경우 `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds`에 있는 월드 파일을 복사해서 서버의 `Worlds`폴더에 넣는다.
